@@ -99,6 +99,6 @@ int main(int argc, char *argv[]) {
   default:
     cout << "Opção inválida." << endl;
   }
-
+  cout << "Fim" << endl;
   return 0;
 }
